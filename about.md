@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name is Angela and I major in Computer Science with a minor in Game Design at NYU. This is a blog for the course on Open Source Software Development. 
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy playing games such as Identity V, PubG, and Hok! If I have some spare time, I also enjoy drawing and playing badminton. 
 
