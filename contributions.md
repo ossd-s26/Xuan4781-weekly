@@ -22,6 +22,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | [GitHub Issue](https://github.com/joannakl/ossd/issues/150)    | Course Website    |   I opened an issue reporting a typo    |
-| Feb 7   | [Wiki Identity V](https://en.wikipedia.org/w/index.php?title=Identity_V&diff=prev&oldid=1337545164)    |  Wiki Website   |  I edited the Wikipedia page to add more detailed explanation about Identity V’s core mechanics to improve clarity.    |
-|     |     |     |      |
+| Feb 3   | [link to my contribution](https://github.com/joannakl/ossd/issues/150)    | Course Website    |   I opened an issue reporting a typo    |
+| Feb 7   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Identity_V&diff=prev&oldid=1337545164)    |  Wiki Website   |  I edited the Wikipedia page to add more detailed explanation about Identity V’s core mechanics to improve clarity.    |
+| March 5 | [link to my contribution](https://www.openstreetmap.org/changeset/179422870#map=19/40.733620/-73.869644)| OpenStreetMap  |  I added a Dunkin Location near the Queens Mall. |
+
