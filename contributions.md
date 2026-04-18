@@ -26,3 +26,4 @@ Replace the first row with your own contribution.
 | Feb 7   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Identity_V&diff=prev&oldid=1337545164)    |  Wiki Website   |  I edited the Wikipedia page to add more detailed explanation about Identity V’s core mechanics to improve clarity.    |
 | March 5 | [link to my contribution](https://www.openstreetmap.org/changeset/179422870#map=19/40.733620/-73.869644)| OpenStreetMap  |  I added a Dunkin Location near the Queens Mall. |
 | April 17| [link to my contribution](https://github.com/openfoodfacts/openfoodfacts-server/issues/13469) | OpenFoodFacts | I added an issue for image overlapping. |
+| April 18| [link to my contribution](https://github.com/ossd-s26/tgs8717-weekly/pull/1) | WeeklyRepo | I fixed a student's post file name and formatting. |
