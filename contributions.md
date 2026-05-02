@@ -30,3 +30,4 @@ Replace the first row with your own contribution.
 | May 2 | [link to my contribution](https://github.com/lingdojo/kana-dojo/pull/15429) | kana-dojo | Added new video game quotes to `japanese-videogame-quotes.json`, following existing schema. |
 | May 2 | [link to my contribution](https://github.com/mdn/content/issues/43957) | MDN | Tried to reproduce the reported CSS animation bug on MDN. Tested and added a comment confirming the fade-out works correctly on my end. |
 | May 2 | [link to my contribution](https://github.com/tommyxchow/frosty/pull/558) | Frosty | Added a `showDividerLine` option to `DraggableDivider`, allowing the divider line to be hidden. |
+| May 2 | [link to my contribution](https://github.com/jackyzha0/quartz/pull/2388) | Quartz | Removed duplicate keys in `emojimap.json` causing build warnings. Used a script to deduplicate entries. |
