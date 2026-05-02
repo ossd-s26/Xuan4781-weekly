@@ -28,3 +28,4 @@ Replace the first row with your own contribution.
 | April 17| [link to my contribution](https://github.com/openfoodfacts/openfoodfacts-server/issues/13469) | OpenFoodFacts | I added an issue for image overlapping. |
 | April 18| [link to my contribution](https://github.com/ossd-s26/tgs8717-weekly/pull/1) | WeeklyRepo | I fixed a student's post file name and formatting. |
 | May 2 | [link to my contribution](https://github.com/lingdojo/kana-dojo/pull/15429) | Open Source Contribution | Added new video game quotes to `japanese-videogame-quotes.json`, following existing schema. |
+| May 2 | [link to my contribution](https://github.com/mdn/content/issues/43957) | Open Source Contribution | Tried to reproduce the reported CSS animation bug on MDN. Tested and added a comment confirming the fade-out works correctly on my end. |
