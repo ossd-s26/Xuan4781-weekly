@@ -27,3 +27,4 @@ Replace the first row with your own contribution.
 | March 5 | [link to my contribution](https://www.openstreetmap.org/changeset/179422870#map=19/40.733620/-73.869644)| OpenStreetMap  |  I added a Dunkin Location near the Queens Mall. |
 | April 17| [link to my contribution](https://github.com/openfoodfacts/openfoodfacts-server/issues/13469) | OpenFoodFacts | I added an issue for image overlapping. |
 | April 18| [link to my contribution](https://github.com/ossd-s26/tgs8717-weekly/pull/1) | WeeklyRepo | I fixed a student's post file name and formatting. |
+| May 2 | [link to my contribution](https://github.com/lingdojo/kana-dojo/pull/15429) | Open Source Contribution | Added new video game quotes to `japanese-videogame-quotes.json`, following existing schema. |
